@@ -1350,4 +1350,4 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 15,false,500.0,1500.0,1349,1031,UNIDAD
 24,false,4500.0,6500.0,1350,1032,UNIDAD
 6,false,2000.0,3900.0,1351,1033,UNIDAD
-2,false,3000.0,6500.0,1352,1034,VENDER
+1,false,3000.0,6500.0,1352,1034,VENDER
