@@ -1,7 +1,7 @@
 eliminado,fecha_creacion,id,tipo_impuesto_id,nombre,codigo
 true,2025-03-11T22:43:51.311,1,1,Aceta,001
 true,2025-03-12T07:56:02.401,2,1,Electrolit,002
-false,2025-03-12T10:04:39.857,3,2,Mareol ,7 702132 004484
+false,2025-03-12T10:04:39.857,3,2,Mareol Tab,7 702132 004484
 true,2025-03-12T11:17:23.875,4,2,Acetaminufen,7706569020659
 false,2025-03-12T12:48:13.281,5,2,Azitromicina 500 MG X  3 tabletas - AG,7706569001245
 false,2025-03-12T13:08:39.931,6,2,Acetaminofen- ag- caja por 100 tabletas,7 706569020659
@@ -783,7 +783,7 @@ false,2025-03-29T11:12:17.996,784,2,Bicarbonato de  soda - 500g ,6536
 false,2025-03-29T11:13:11.800,785,2,Azufre 500g,6537
 false,2025-03-29T11:14:04.611,786,2,Sal marina - 500g ,6538
 false,2025-03-29T11:15:32.288,787,2,Sulfato de magnesia 250g,6539
-false,2025-03-29T11:18:27.982,788,2,Baselina  pura  lata plastica,6540
+false,2025-03-29T11:18:27.982,788,1,Vaselina  pura  lata plastica,6540
 false,2025-03-29T11:20:15.891,789,2,Baselina con limom lata plastica,6541
 false,2025-03-29T11:21:58.064,790,2,Baselina en pote 50g ,6543
 false,2025-03-29T11:23:46.653,791,2,Canula  nasal de  oxigeno,6544
